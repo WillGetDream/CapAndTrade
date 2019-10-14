@@ -2,8 +2,12 @@
 
                                     2012/2013 SOUTHERN CALIFORNIA REGIONAL
                                     ACM INTERNATIONAL COLLEGIATE PROGRAMMING CONTEST
+                                    
+                                    
                                                   Problem 1
                                                   Cap and Trade
+                                                  
+                                                  
               California Assembly Bill 32, which goes into effect on January 1, 2013, requires companies to reduce
     carbon emissions or to pay a fee to offset greenhouse gases. (Technically, the latter is to purchase credits from
     businesses that are not emitting their allotment of greenhouse gases.) The allotment goes down each year
