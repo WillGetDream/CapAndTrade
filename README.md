@@ -1,4 +1,4 @@
-# CapAndTrade
+# Cap And Trade solution
 
                                     2012/2013 SOUTHERN CALIFORNIA REGIONAL
                                     ACM INTERNATIONAL COLLEGIATE PROGRAMMING CONTEST
